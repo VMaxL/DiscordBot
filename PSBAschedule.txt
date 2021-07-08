@@ -1,0 +1,154 @@
+Boston Sceptiles	0		vs		0	Vallarta Kingdras
+Blazing Infernapes	0		vs		0	Atletico Bewear
+Circhester Cramorants	0		vs		0	Los Santos Sceptiles
+Columbus Crobats	0		vs		0	Cincinnati Sacreds
+Netherland Nidokings	0		vs		0	Boulder Dragapults
+South Norfolk Noiverns	0		vs		0	Houston Mimes
+Nijmegen Magikarp	0		vs		0	Dutch Swellows
+Houston Mimes	0		vs		0	Nijmegen Magikarp
+Dutch Swellows	0		vs		0	Boston Sceptiles
+Boulder Dragapults	0		vs		0	South Norfolk Noiverns
+Cincinnati Sacreds	0		vs		0	Netherland Nidokings
+Los Santos Sceptiles	0		vs		0	Columbus Crobats
+Atletico Bewear	0		vs		0	Circhester Cramorants
+Vallarta Kingdras	0		vs		0	Blazing Infernapes
+Columbus Crobats	0		vs		0	Atletico Bewear
+Circhester Cramorants	0		vs		0	Vallarta Kingdras
+Boston Sceptiles	0		vs		0	Blazing Infernapes
+Netherland Nidokings	0		vs		0	Los Santos Sceptiles
+South Norfolk Noiverns	0		vs		0	Cincinnati Sacreds
+Nijmegen Magikarp	0		vs		0	Boulder Dragapults
+Dutch Swellows	0		vs		0	Houston Mimes
+Los Santos Sceptiles	0		vs		0	South Norfolk Noiverns
+Boulder Dragapults	0		vs		0	Dutch Swellows
+Cincinnati Sacreds	0		vs		0	Nijmegen Magikarp
+Houston Mimes	0		vs		0	Boston Sceptiles
+Atletico Bewear	0		vs		0	Netherland Nidokings
+Vallarta Kingdras	0		vs		0	Columbus Crobats
+Blazing Infernapes	0		vs		0	Circhester Cramorants
+Nijmegen Magikarp	0		vs		0	Los Santos Sceptiles
+Columbus Crobats	0		vs		0	Blazing Infernapes
+Netherland Nidokings	0		vs		0	Vallarta Kingdras
+South Norfolk Noiverns	0		vs		0	Atletico Bewear
+Boston Sceptiles	0		vs		0	Circhester Cramorants
+Dutch Swellows	0		vs		0	Cincinnati Sacreds
+Houston Mimes	0		vs		0	Boulder Dragapults
+Blazing Infernapes	0		vs		0	Netherland Nidokings
+Cincinnati Sacreds	0		vs		0	Houston Mimes
+Los Santos Sceptiles	0		vs		0	Dutch Swellows
+Atletico Bewear	0		vs		0	Nijmegen Magikarp
+Vallarta Kingdras	0		vs		0	South Norfolk Noiverns
+Boulder Dragapults	0		vs		0	Boston Sceptiles
+Circhester Cramorants	0		vs		0	Columbus Crobats
+Boulder Dragapults	0		vs		0	Cincinnati Sacreds
+Netherland Nidokings	0		vs		0	Circhester Cramorants
+South Norfolk Noiverns	0		vs		0	Blazing Infernapes
+Nijmegen Magikarp	0		vs		0	Vallarta Kingdras
+Dutch Swellows	0		vs		0	Atletico Bewear
+Houston Mimes	0		vs		0	Los Santos Sceptiles
+Boston Sceptiles	0		vs		0	Columbus Crobats
+Columbus Crobats	0		vs		0	Netherland Nidokings
+Los Santos Sceptiles	0		vs		0	Boulder Dragapults
+Atletico Bewear	0		vs		0	Houston Mimes
+Vallarta Kingdras	0		vs		0	Dutch Swellows
+Blazing Infernapes	0		vs		0	Nijmegen Magikarp
+Circhester Cramorants	0		vs		0	South Norfolk Noiverns
+Cincinnati Sacreds	0		vs		0	Boston Sceptiles
+Boulder Dragapults	0		vs		0	Atletico Bewear
+South Norfolk Noiverns	0		vs		0	Columbus Crobats
+Nijmegen Magikarp	0		vs		0	Circhester Cramorants
+Dutch Swellows	0		vs		0	Blazing Infernapes
+Houston Mimes	0		vs		0	Vallarta Kingdras
+Boston Sceptiles	0		vs		0	Netherland Nidokings
+Cincinnati Sacreds	0		vs		0	Los Santos Sceptiles
+Circhester Cramorants	0		vs		0	Dutch Swellows
+Atletico Bewear	0		vs		0	Cincinnati Sacreds
+Vallarta Kingdras	0		vs		0	Boulder Dragapults
+Blazing Infernapes	0		vs		0	Houston Mimes
+Los Santos Sceptiles	0		vs		0	Boston Sceptiles
+Columbus Crobats	0		vs		0	Nijmegen Magikarp
+Netherland Nidokings	0		vs		0	South Norfolk Noiverns
+Houston Mimes	0		vs		0	Circhester Cramorants
+Nijmegen Magikarp	0		vs		0	Netherland Nidokings
+Dutch Swellows	0		vs		0	Columbus Crobats
+Boston Sceptiles	0		vs		0	South Norfolk Noiverns
+Boulder Dragapults	0		vs		0	Blazing Infernapes
+Cincinnati Sacreds	0		vs		0	Vallarta Kingdras
+Los Santos Sceptiles	0		vs		0	Atletico Bewear
+Vallarta Kingdras	0		vs		0	Boston Sceptiles
+Atletico Bewear	0		vs		0	Blazing Infernapes
+Los Santos Sceptiles	0		vs		0	Circhester Cramorants
+Cincinnati Sacreds	0		vs		0	Columbus Crobats
+Boulder Dragapults	0		vs		0	Netherland Nidokings
+Houston Mimes	0		vs		0	South Norfolk Noiverns
+Dutch Swellows	0		vs		0	Nijmegen Magikarp
+Nijmegen Magikarp	0		vs		0	Houston Mimes
+Boston Sceptiles	0		vs		0	Dutch Swellows
+South Norfolk Noiverns	0		vs		0	Boulder Dragapults
+Netherland Nidokings	0		vs		0	Cincinnati Sacreds
+Columbus Crobats	0		vs		0	Los Santos Sceptiles
+Circhester Cramorants	0		vs		0	Atletico Bewear
+Blazing Infernapes	0		vs		0	Vallarta Kingdras
+Atletico Bewear	0		vs		0	Columbus Crobats
+Vallarta Kingdras	0		vs		0	Circhester Cramorants
+Blazing Infernapes	0		vs		0	Boston Sceptiles
+Los Santos Sceptiles	0		vs		0	Netherland Nidokings
+Cincinnati Sacreds	0		vs		0	South Norfolk Noiverns
+Boulder Dragapults	0		vs		0	Nijmegen Magikarp
+Houston Mimes	0		vs		0	Dutch Swellows
+South Norfolk Noiverns	0		vs		0	Los Santos Sceptiles
+Dutch Swellows	0		vs		0	Boulder Dragapults
+Nijmegen Magikarp	0		vs		0	Cincinnati Sacreds
+Boston Sceptiles	0		vs		0	Houston Mimes
+Netherland Nidokings	0		vs		0	Atletico Bewear
+Columbus Crobats	0		vs		0	Vallarta Kingdras
+Circhester Cramorants	0		vs		0	Blazing Infernapes
+Los Santos Sceptiles	0		vs		0	Nijmegen Magikarp
+Blazing Infernapes	0		vs		0	Columbus Crobats
+Vallarta Kingdras	0		vs		0	Netherland Nidokings
+Atletico Bewear	0		vs		0	South Norfolk Noiverns
+Circhester Cramorants	0		vs		0	Boston Sceptiles
+Cincinnati Sacreds	0		vs		0	Dutch Swellows
+Boulder Dragapults	0		vs		0	Houston Mimes
+Netherland Nidokings	0		vs		0	Blazing Infernapes
+Houston Mimes	0		vs		0	Cincinnati Sacreds
+Dutch Swellows	0		vs		0	Los Santos Sceptiles
+Nijmegen Magikarp	0		vs		0	Atletico Bewear
+South Norfolk Noiverns	0		vs		0	Vallarta Kingdras
+Boston Sceptiles	0		vs		0	Boulder Dragapults
+Columbus Crobats	0		vs		0	Circhester Cramorants
+Cincinnati Sacreds	0		vs		0	Boulder Dragapults
+Circhester Cramorants	0		vs		0	Netherland Nidokings
+Blazing Infernapes	0		vs		0	South Norfolk Noiverns
+Vallarta Kingdras	0		vs		0	Nijmegen Magikarp
+Atletico Bewear	0		vs		0	Dutch Swellows
+Los Santos Sceptiles	0		vs		0	Houston Mimes
+Columbus Crobats	0		vs		0	Boston Sceptiles
+Netherland Nidokings	0		vs		0	Columbus Crobats
+Boulder Dragapults	0		vs		0	Los Santos Sceptiles
+Houston Mimes	0		vs		0	Atletico Bewear
+Dutch Swellows	0		vs		0	Vallarta Kingdras
+Nijmegen Magikarp	0		vs		0	Blazing Infernapes
+South Norfolk Noiverns	0		vs		0	Circhester Cramorants
+Boston Sceptiles	0		vs		0	Cincinnati Sacreds
+Atletico Bewear	0		vs		0	Boulder Dragapults
+Columbus Crobats	0		vs		0	South Norfolk Noiverns
+Circhester Cramorants	0		vs		0	Nijmegen Magikarp
+Blazing Infernapes	0		vs		0	Dutch Swellows
+Vallarta Kingdras	0		vs		0	Houston Mimes
+Netherland Nidokings	0		vs		0	Boston Sceptiles
+Los Santos Sceptiles	0		vs		0	Cincinnati Sacreds
+Dutch Swellows	0		vs		0	Circhester Cramorants
+Cincinnati Sacreds	0		vs		0	Atletico Bewear
+Boulder Dragapults	0		vs		0	Vallarta Kingdras
+Houston Mimes	0		vs		0	Blazing Infernapes
+Boston Sceptiles	0		vs		0	Los Santos Sceptiles
+Nijmegen Magikarp	0		vs		0	Columbus Crobats
+South Norfolk Noiverns	0		vs		0	Netherland Nidokings
+Circhester Cramorants	0		vs		0	Houston Mimes
+Netherland Nidokings	0		vs		0	Nijmegen Magikarp
+Columbus Crobats	0		vs		0	Dutch Swellows
+South Norfolk Noiverns	0		vs		0	Boston Sceptiles
+Blazing Infernapes	0		vs		0	Boulder Dragapults
+Vallarta Kingdras	0		vs		0	Cincinnati Sacreds
+Atletico Bewear	0		vs		0	Los Santos Sceptiles

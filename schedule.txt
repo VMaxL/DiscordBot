@@ -1,0 +1,48 @@
+Farmington Feraligatrs			vs.			Netherlands Nidokings
+Indus Valley Infernapes			vs.			Vancouver Vespiquen
+Dutch Swellows			vs.			Loli Lopunnys
+Boston Sceptiles			vs.			Coal Valley Cobalions
+Miami Heatran			vs.			The Roggen Rollers
+Kingston Wooloos			vs.			Adelaide Eelektross
+Indus Valley Infernapes			vs.			Dutch Swellows
+Adelaide Eelektross			vs.			Netherlands Nidokings
+Coal Valley Cobalions			vs.			The Roggen Rollers
+Miami Heatran			vs.			Boston Sceptiles
+Farmington Feraligatrs			vs.			Kingston Wooloos
+Loli Lopunnys			vs.			Vancouver Vespiquen
+Vancouver Vespiquen			vs.			Boston Sceptiles
+Dutch Swellows			vs.			Farmington Feraligatrs
+Loli Lopunnys			vs.			Indus Valley Infernapes
+Netherlands Nidokings			vs.			The Roggen Rollers
+Adelaide Eelektross			vs.			Miami Heatran
+Coal Valley Cobalions			vs.			Kingston Wooloos
+The Roggen Rollers			vs.			Adelaide Eelektross
+Farmington Feraligatrs			vs.			Indus Valley Infernapes
+Coal Valley Cobalions			vs.			Loli Lopunnys
+Miami Heatran			vs.			Kingston Wooloos
+Netherlands Nidokings			vs.			Vancouver Vespiquen
+Boston Sceptiles			vs.			Dutch Swellows
+Adelaide Eelektross			vs.			Indus Valley Infernapes
+Vancouver Vespiquen			vs.			Miami Heatran
+Netherlands Nidokings			vs.			Boston Sceptiles
+Kingston Wooloos			vs.			Loli Lopunnys
+Coal Valley Cobalions			vs.			Dutch Swellows
+The Roggen Rollers			vs.			Farmington Feraligatrs
+Netherlands Nidokings			vs.			Coal Valley Cobalions
+Loli Lopunnys			vs.			The Roggen Rollers
+Vancouver Vespiquen			vs.			Farmington Feraligatrs
+Dutch Swellows			vs.			Miami Heatran
+Kingston Wooloos			vs.			Indus Valley Infernapes
+Adelaide Eelektross			vs.			Boston Sceptiles
+Miami Heatran			vs.			Farmington Feraligatrs
+Boston Sceptiles			vs.			Kingston Wooloos
+Indus Valley Infernapes			vs.			The Roggen Rollers
+Loli Lopunnys			vs.			Adelaide Eelektross
+Dutch Swellows			vs.			Netherlands Nidokings
+Vancouver Vespiquen			vs.			Coal Valley Cobalions
+Coal Valley Cobalions			vs.			Adelaide Eelektross
+Kingston Wooloos			vs.			Dutch Swellows
+The Roggen Rollers			vs.			Vancouver Vespiquen
+Indus Valley Infernapes			vs.			Boston Sceptiles
+Loli Lopunnys			vs.			Farmington Feraligatrs
+Miami Heatran			vs.			Netherlands Nidokings
