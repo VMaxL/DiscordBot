@@ -3,6 +3,7 @@ from discord.ext import commands
 import os
 
 # TODO combine week command and PSBA week command to delete copied code
+# TODO put the schedule files into a separate folder for cleanup
 
 class Pickems(commands.Cog):
     def __init__(self, bot):
