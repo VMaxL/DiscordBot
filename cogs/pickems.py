@@ -20,7 +20,20 @@ class Pickems(commands.Cog):
                     "Miami Heatran": "Nada",
                     "The Roggen Rollers": "Autumn & Nunes",
                     "Kingston Wooloos": "Mimi",
-                    "Adelaide Eelektross": "Jolty"}
+                    "Adelaide Eelektross": "Jolty",
+                    # PSBA Teams
+                    "Netherland Nidokings": "Max",
+                    "Vallarta Kingdras": "Noemetagross",
+                    "Blazing Infernapes": "Adam",
+                    "Circhester Cramorants": "Tepig",
+                    "Columbus Crobats": "Knalley",
+                    "South Norfolk Noiverns": "Jolty",
+                    "Nijmegen Magikarp": "MacRatMan",
+                    "Houston Mimes": "Dwinch",
+                    "Boulder Dragapults": "Tenkai",
+                    "Cincinnati Sacreds": "Snowball",
+                    "Los Santos Sceptiles": "Aaron12",
+                    "Atletico Bewear": "Acshy"}
 
     # PICHU pickems command, assumes a few things
     # 1. All weeks have 6 battles 2. The battles are in the format
@@ -60,9 +73,12 @@ class Pickems(commands.Cog):
             numb = 7 * (int(weekNum) - 1)
             for i in contents[numb:numb + 7]:
                 coach1, coach2 = i.replace("\t", "").replace("\n", "").replace("0","").split("vs")
+                print(coach2.replace(" ", ""))
                 emote1 = discord.utils.get(self.bot.emojis, name=coach1.replace(" ", ""))
                 emote2 = discord.utils.get(self.bot.emojis, name=coach2.replace(" ", ""))
-                msg = await ctx.send("{0} [{1}] vs. {2} [{3}]".format(coach1, emote1, coach2, emote2))
+                # msg = await ctx.send("{0} [{1}] vs. {2} [{3}]".format(coach1, emote1, coach2, emote2))
+                msg = await ctx.send("{0} ({1}) [{2}] vs. {3} ({4}) [{5}]".format(coach1, self.dic[coach1], emote1,
+                                                                                  coach2, self.dic[coach2], emote2))
                 await msg.add_reaction(emote1)
                 await msg.add_reaction(emote2)
 
